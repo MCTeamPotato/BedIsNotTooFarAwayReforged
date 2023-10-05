@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[mods]]
+modId="bintfar"
+version="${file.jarVersion}"
+displayName="BedIsNotTooFarAwayReforged"
+credits="Natanaelel (original author)"
+authors="TeamPotato"
+description='''
+A Minecraft mod.
+'''
